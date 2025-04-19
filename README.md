@@ -1,16 +1,8 @@
 ## 🔥 About Me
-<div>
-  <p align="left">
-    <img src="./deathgun_croped.gif" height="240" align="right" />
-  </p>
-  <br><br><br> 
 
-  I'm currently diving deep into **WordPress**, **PHP**, and **Angular**.  
-  Skilled in **HTML**, **CSS**, **SCSS**, **JavaScript**, **TypeScript**, **Figma**, and **Photoshop**.  
-  Passionate about continuous learning and creative building.
-  
-  <br><br><br>
-  </div>
+I'm currently diving deep into **WordPress**, **PHP**, and **Angular**.  
+Skilled in **HTML**, **CSS**, **SCSS**, **JavaScript**, **TypeScript**, **Figma**, and **Photoshop**.  
+Passionate about continuous learning and creative building.
 
 ---
 
