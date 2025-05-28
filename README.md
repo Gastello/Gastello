@@ -1,6 +1,6 @@
 ## 🔥 About Me
 
-I'm currently diving deep into **WordPress**, **PHP**, and **Angular**.  
+I'm currently diving deep into **React**.  
 Skilled in **HTML**, **CSS**, **SCSS**, **JavaScript**, **TypeScript**, **Figma**, and **Photoshop**.  
 Passionate about continuous learning and creative building.
 
@@ -40,13 +40,6 @@ Passionate about continuous learning and creative building.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-</div>
-
-### Frameworks & CMS
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
 </div>
 
 ### Tools
