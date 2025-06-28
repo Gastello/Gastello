@@ -1,6 +1,6 @@
 ## 🔥 About Me
 
-I'm currently diving deep into **React**.  
+I'm currently diving deep into **React** and **Zustand**.  
 Skilled in **HTML**, **CSS**, **SCSS**, **JavaScript**, **TypeScript**, **Figma**, and **Photoshop**.  
 Passionate about continuous learning and creative building.
 
